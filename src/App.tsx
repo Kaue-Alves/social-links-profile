@@ -13,7 +13,7 @@ export default function App() {
                     <BoxLink titulo="Frontend Mentor" link="#" />
                     <BoxLink titulo="LinkedIn" link="#" />
                     <BoxLink titulo="Twitter" link="#" />
-                    <BoxLink titulo="Instragram" link="#" />
+                    <BoxLink titulo="Instagram" link="#" />
                     
                 </ContainerLinks>
             </Container>
